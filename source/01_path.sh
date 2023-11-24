@@ -5,6 +5,7 @@ paths=(
 
 # first git hub code
 # name sihu some pro
+# try e
 
 export PATH
 for p in "${paths[@]}"; do
